@@ -1,0 +1,37 @@
+{
+  "name": "MusicStream",
+  "short_name": "MusicStream",
+  "description": "Your music, everywhere. Stream millions of songs with high quality audio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["music", "entertainment"],
+  "shortcuts": [
+    {
+      "name": "Search",
+      "url": "/search",
+      "description": "Search for music"
+    },
+    {
+      "name": "Library",
+      "url": "/library",
+      "description": "Your music library"
+    }
+  ]
+}
