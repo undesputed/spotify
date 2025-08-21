@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 import { Play, Heart, MoreHorizontal } from 'lucide-react'
 import { Track, Album, Artist, Playlist } from '@/lib/types'

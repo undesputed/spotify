@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 import { Play, Pause, SkipBack, SkipForward, Volume2, Heart, MoreHorizontal } from 'lucide-react'
 import { usePlayer } from '@/hooks/usePlayer'

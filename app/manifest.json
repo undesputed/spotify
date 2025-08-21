@@ -1,6 +1,6 @@
 {
-  "name": "MusicStream",
-  "short_name": "MusicStream",
+  "name": "Music Central",
+  "short_name": "Music Central",
   "description": "Your music, everywhere. Stream millions of songs with high quality audio.",
   "start_url": "/",
   "display": "standalone",
@@ -9,13 +9,13 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/logo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

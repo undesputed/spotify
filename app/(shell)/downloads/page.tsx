@@ -133,7 +133,7 @@ export default function DownloadsPage() {
           <h3 className="font-medium text-foreground mb-4">Download Tips</h3>
           <ul className="space-y-2 text-sm text-foreground-muted">
             <li>• Downloads are only available on this device</li>
-            <li>• Downloaded music will be removed if you don't go online for 30 days</li>
+            <li>• Downloaded music will be removed if you don&apos;t go online for 30 days</li>
             <li>• Premium users get unlimited downloads and higher quality options</li>
             <li>• Downloads count towards your device storage limit</li>
           </ul>

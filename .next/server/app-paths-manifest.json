@@ -1,0 +1,7 @@
+{
+  "/auth/page": "app/auth/page.js",
+  "/(shell)/platforms/connect/page": "app/(shell)/platforms/connect/page.js",
+  "/(shell)/platforms/page": "app/(shell)/platforms/page.js",
+  "/(shell)/page": "app/(shell)/page.js",
+  "/(shell)/checkout/page": "app/(shell)/checkout/page.js"
+}
